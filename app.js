@@ -23,7 +23,7 @@ var ferrari = {
     model: "Panarama",
     year: 2020,
     available: true,
-    description: "The Ferrari is an excellent super luxury car."
+    description: "Ranks near the top of super luxury cars, with a strong engine, well-balanced handling, and comfortable interior."
 }
 
 function display2() {
@@ -40,10 +40,10 @@ function display2() {
 
 var lambo = {
     make: "Lamborghini",
-    model: "Panarama",
-    year: 2020,
+    model: "Huracan",
+    year: 2021,
     available: true,
-    description: "The Ferrari is an excellent super luxury car."
+    description: "Exceptionally comfortable ride and stunning performance."
 }
 
 function display3() {
