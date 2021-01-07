@@ -58,6 +58,8 @@ function display3() {
     }
 };
 
+
+//To Clear Details
 function clear1() {
     document.getElementById("submit1").innerText="See Details";
 }
