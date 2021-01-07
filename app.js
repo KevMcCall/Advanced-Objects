@@ -57,3 +57,16 @@ function display3() {
             "About: " + lambo.description;
     }
 };
+
+function clear1() {
+    document.getElementById("submit1").innerText="See Details";
+}
+
+function clear2() {
+    document.getElementById("submit2").innerText="See Details";
+}
+
+function clear3() {
+    document.getElementById("submit3").innerText="See Details";
+}
+
